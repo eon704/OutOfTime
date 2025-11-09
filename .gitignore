@@ -104,3 +104,4 @@ InitTestScene*.unity*
 Assets/Imports
 .DS_Store
 .idea
+Assets/Imports.meta
