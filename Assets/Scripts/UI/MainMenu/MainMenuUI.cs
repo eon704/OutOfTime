@@ -13,6 +13,7 @@ namespace UI
     
     private void Awake()
     {
+      foregroundTint.color = Color.black;
       playButton.onClick.AddListener(OnPlay);
     }
 
